@@ -7,7 +7,9 @@ I am a **Software Development** student with a background in **IT System Adminis
 I am passionate about **video game development** and always eager to learn new technologies and improve my skills.
 
 * **I am interested in Game Development, Artificial Intelligence, and Software Engineering.**
-- 🌱 I’m currently learning **Python** and exploring different game engines.
+- 🌱 I’m currently learning ...
+  - Python
+  - AWS
 - 👯 I’m looking forward to collaborating on projects related to **AI and game development**.
 - ✔ Ask me about anything, I am happy to help if it’s within my expertise! 😉
 - Outside of tech, 🎵 I love listening to music and 🌿 enjoying nature.
