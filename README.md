@@ -4,7 +4,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://steamuserimages-a.akamaihd.net/ugc/1785093685088208262/C8A0C76768720BA4A6921C278E3BB34192195684/?imw=450&impolicy=Letterbox" />
 
-I am a **Software Development** student with a background in **IT System Administration** (SMR) and **Multiplatform Application Development** (DAM). Additionally, I have completed a **specialization course in Artificial Intelligence and Big Data**.
+I studied Microcomputer Systems and Networks (SMR) and later completed a Higher Technical Degree in Multiplatform Application Development (DAM), focusing on software development and databases. Currently, I am specializing in Artificial Intelligence and Big Data, learning about machine learning models and data analytics.
 
 I am passionate about **video game development** and always eager to learn new technologies and improve my skills.
 
