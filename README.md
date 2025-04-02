@@ -8,7 +8,7 @@ I studied Microcomputer Systems and Networks (SMR) and later completed a Higher 
 
 I am passionate about **video game development** and always eager to learn new technologies and improve my skills.
 
-* **I am interested in Game Development, Artificial Intelligence, and Software Engineering.**
+* **I am interested in Game Development, Artificial Intelligence, and Software Development.**
 - 🌱 I’m currently learning ...
   - Python
   - AWS
