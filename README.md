@@ -3,10 +3,12 @@
 ## <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="50px">&nbsp;***About me***
 
 <img align="right" width=300px alt="Unicorn" src="https://steamuserimages-a.akamaihd.net/ugc/1785093685088208262/C8A0C76768720BA4A6921C278E3BB34192195684/?imw=450&impolicy=Letterbox" />
+<p align=justify>
+  I studied Microcomputer Systems and Networks (SMR) and later completed a Higher Technical Degree in Multiplatform Application Development (DAM), focusing on software development and databases. Currently, 
+  I am specializing in Artificial Intelligence and Big Data, learning about machine learning models and data analytics.
 
-I studied Microcomputer Systems and Networks (SMR) and later completed a Higher Technical Degree in Multiplatform Application Development (DAM), focusing on software development and databases. Currently, I am specializing in Artificial Intelligence and Big Data, learning about machine learning models and data analytics.
-
-I am passionate about **video game development** and always eager to learn new technologies and improve my skills.
+  I am passionate about **video game development** and always eager to learn new technologies and improve my skills.
+</p>
 
 * **I am interested in Game Development, Artificial Intelligence, and Software Development.**
 - 🌱 I’m currently learning ...
