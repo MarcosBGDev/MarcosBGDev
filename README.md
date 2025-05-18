@@ -10,7 +10,7 @@
   I am passionate about **video game development** and always eager to learn new technologies and improve my skills.
 </p>
 
-* **I am interested in Game Development, Artificial Intelligence, and Software Development.**
+* **I am interested in Artificial Intelligence, and Software Development.**
 - 🌱 I’m currently learning ...
   - Python
   - AWS
