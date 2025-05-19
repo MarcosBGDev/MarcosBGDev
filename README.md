@@ -23,8 +23,8 @@
 
 <div>
   <p>
-    <a href="https://github.com/MarcosBGDev/KDD_Process">
-      <img src="https://github.com/user-attachments/assets/7410c8c5-18b3-4c53-802f-1343638d5de8" />
+    <a href="https://github.com/MarcosBGDev/Chess_Openings">
+      <img src="https://github.com/user-attachments/assets/deb65577-d5be-4d0c-a715-10dc3d1f95c8" />
     </a>
   </p>
 </div>
