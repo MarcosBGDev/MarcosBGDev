@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning ...
   - Python
   - Web Scraping
+  - JavaFX(GUI)
 - 👯 I’m looking forward to collaborating on projects related to **AI and game development**.
 - ✔ Ask me about anything, I am happy to help if it’s within my expertise! 😉
 - Outside of tech, 🎵 I love listening to music and 📖 enjoying reading.
