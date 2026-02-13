@@ -1,6 +1,6 @@
 <p><img src="https://github.com/user-attachments/assets/84a18cf1-aefe-4f91-bb30-561809e10a28"> </p>
 
-## <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="50px">&nbsp;***About me***
+## <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="50px">&nbsp;***Sobre mí***
 
 <img align="right" width=300px alt="Unicorn" src="https://steamuserimages-a.akamaihd.net/ugc/1785093685088208262/C8A0C76768720BA4A6921C278E3BB34192195684/?imw=450&impolicy=Letterbox" />
 <p align=justify>
@@ -29,7 +29,7 @@
   </p>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">&nbsp; **Skills**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">&nbsp; **Habilidades**
 
   - **Lenguajes**:  
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
