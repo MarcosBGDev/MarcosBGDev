@@ -4,23 +4,22 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://steamuserimages-a.akamaihd.net/ugc/1785093685088208262/C8A0C76768720BA4A6921C278E3BB34192195684/?imw=450&impolicy=Letterbox" />
 <p align=justify>
-  I studied Microcomputer Systems and Networks and later completed a Higher Technical Degree in Multiplatform Application Development, focusing on software development and databases. Currently, 
-  I am specializing in Artificial Intelligence and Big Data, learning about machine learning models and data analytics.
+  He estudiado el grado medio de Sistemas Microinformáticos y Redes y posteriormente terminé el ciclo superior de Desarrollo de Aplicaciones Multiplataforma, enfocandome en el desarrollo de software y las     bases de datos.
+  Adicionalmente dediqué un año a un curso de Especialización en Inteligencia Artificial y Big Data, donde aprendí herramientas como powerBI o mongoDB y análisis de datos con el lenguaje de programación       Python.
+  Actualmente estoy cursando el grado superior en Desarrollo de Aplicaciones Web, donde trabajo con frameworks como Laravel y React, y estoy aprendiendo a configurar servidores web y utilizar Docker.
 
-  I’m eager to learn new technologies, develop my skills, and I really enjoy full-stack development, including both frontend and backend work.
+  Estoy entusiasmado por aprender nuevas tecnologías, seguir desarrollando mis habilidades y trabajar en proyectos de desarrollo full-stack.
 </p>
 
-* **I am interested in Artificial Intelligence, and Software Development.**
-- 🌱 I’m currently learning ...
+* **Estoy interesado en la Inteligencia Artificial y el Desarrollo de Software**
+- Actualmente aprendiendo por mi cuenta:
   - Python
   - Web Scraping
-  - JavaFX(GUI)
-- 👯 I’m looking forward to collaborating on projects related to **AI and game development**.
-- ✔ Ask me about anything, I am happy to help if it’s within my expertise! 😉
-- Outside of tech, 🎵 I love listening to music and 📖 enjoying reading.
-- ♟️ I also enjoy playing chess — feel free to challenge me on <a href="https://www.chess.com/member/baezagonzalez">Chess.com</a>!
+  - JavaFX(Interfaces de usuario para java)
+
+- En constante aprendizaje y abierto a colaboraciones en proyectos.
   
-## **Latest Proyects**
+## **Últimos proyectos**
 
 <div>
   <p>
