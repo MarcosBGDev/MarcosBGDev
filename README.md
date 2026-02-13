@@ -1,4 +1,4 @@
-<p><img src="https://github.com/user-attachments/assets/84a18cf1-aefe-4f91-bb30-561809e10a28"> </p>
+<img width="774" height="80" alt="titulo" src="https://github.com/user-attachments/assets/d6ac6ab8-8480-4c8c-aad2-7b6b311bab98" />
 
 ## <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="50px">&nbsp;***Sobre mí***
 
