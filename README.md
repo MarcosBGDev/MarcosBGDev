@@ -1,4 +1,4 @@
-*Marcos Baeza González | Desarrollador web / Multiplataforma*
+# *Marcos Baeza González | Desarrollador web / Multiplataforma*
 
 ## <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="50px">&nbsp;***Sobre mí***
 
