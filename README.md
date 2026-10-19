@@ -6,7 +6,8 @@
 <p align=justify>
   He estudiado el grado medio de Sistemas Microinformáticos y Redes y posteriormente terminé el ciclo superior de Desarrollo de Aplicaciones Multiplataforma, enfocandome en el desarrollo de software y las     bases de datos.
   Adicionalmente dediqué un año a un curso de Especialización en Inteligencia Artificial y Big Data, donde aprendí herramientas como powerBI o mongoDB y análisis de datos con el lenguaje de programación       Python.
-  Adicionalmente he terminado el grado superior en Desarrollo de Aplicaciones Web, donde trabajé con frameworks como Laravel y React, y estoy aprendí a configurar servidores web y utilizar Docker.
+  Adicionalmente he terminado el grado superior en Desarrollo de Aplicaciones Web, donde trabajé con frameworks como Laravel y React, y aprendí a configurar servidores web y a utilizar Docker.
+  
   Actualmente estoy buscando un puesto de trabajo acorde a mis habilidades y conocimientos.
 
   Estoy entusiasmado por aprender nuevas tecnologías, seguir desarrollando mis habilidades y trabajar en proyectos de desarrollo full-stack.
